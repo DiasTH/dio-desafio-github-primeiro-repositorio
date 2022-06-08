@@ -1,5 +1,5 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de Projeito sobre Git/GitHub
+# Desafio de Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Proje
 
 ## Links  Úteis
 [Sintaxe Basica  Markdow](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
